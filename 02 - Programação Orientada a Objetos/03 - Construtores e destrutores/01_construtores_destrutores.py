@@ -22,10 +22,5 @@ c.falar()
 
 print("Ola mundo")
 
-del c
 
-print("Ola mundo")
-print("Ola mundo")
-print("Ola mundo")
-
-# criar_cachorro()
+criar_cachorro()
